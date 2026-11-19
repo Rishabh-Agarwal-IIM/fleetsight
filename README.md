@@ -2,7 +2,7 @@
 
 A fleet operations and cost intelligence platform for a network of **7 centres, 250 vehicles and 40 clients** across East and North-East India — built as a single, fast web app with an assistant that answers questions and cites its sources.
 
-**Live demo:** _add your link here after deploying_ &nbsp;·&nbsp; **Built by** [Rishabh Agarwal](https://www.linkedin.com/in/iimrishabh-agarwal/)
+**Live demo:** [fleetsight-rishabh.web.app](https://fleetsight-rishabh.web.app) &nbsp;·&nbsp; **Built by** [Rishabh Agarwal](https://www.linkedin.com/in/iimrishabh-agarwal/)
 
 ![FleetSight dashboard](public/og.png)
 
